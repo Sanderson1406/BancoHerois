@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+div[id="top"] {
+    background-color: #b1bf78;
+    align-items: center;
+    width: none;
+    text-align: center;
+    font-style: poppins;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+h8[id="descrition"]{
+    font-size: 15px;
+    margin-top: none;
+}
+img[id="imgtop"] {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 10px;
+}

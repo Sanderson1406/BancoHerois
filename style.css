@@ -12,6 +12,9 @@ div[id="top"] {
 h8[id="descrition"]{
     font-size: 15px;
 }
+div[id="vid"] {
+    background-color: #b1bf78;
+}
 .navbar {
     display: flex;
     background-color: #a6a4a4;
@@ -44,4 +47,6 @@ h8[id="descrition"]{
 }
 iframe {
     margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
